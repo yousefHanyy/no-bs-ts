@@ -59,3 +59,7 @@
 ### Day_28: TypeScript/React - Global state [[]]
 
 ### Day_29: TypeScript/React - Redux Toolkit [[]]
+
+## Reference:
+
+https://youtube.com/playlist?list=PLNqp92_EXZBJYFrpEzdO2EapvU0GOJ09n&si=whkq5JMs_R1oFlAL
