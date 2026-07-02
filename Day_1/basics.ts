@@ -1,28 +1,23 @@
-// * ctrl+k then ctrl+i shows what a variable should be as a type if it isn't written:
-let userName: string = "Yousef Hany";
 let hasLoggedIn: boolean = true;
-let myNumber: number = 10;
-let regEx: RegExp = /foo/;
-
+let userName: string = "yousef";
+let myRegex: RegExp = /foo/;
+// ---
 const names: string[] = userName.split(" ");
-// generic types:
-const myValues: Array<number> = [1, 2, 3];
 
 interface Person {
-  first: string;
-  last: string;
+  firstName: string;
+  lastName: string;
 }
 
-const person: Person = {
-  first: "Yousef",
-  last: "Hany",
+const myObject: Person = {
+  firstName: "Yousef",
+  lastName: "Hany",
 };
 
-// * Records<'key','value'>:
 const ids: Record<number, string> = {
-  10: "a",
-  20: "b",
+  10: "Y",
+  20: "O",
 };
-ids[30] = "c";
+ids[30] = "U";
 
-// * conditionals and for loops don't have a special syntax since typescript infers most of the variable declarations.
+const out = [1, 2, 3].map((n) => n * 10);
