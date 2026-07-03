@@ -2,7 +2,7 @@
 
 ### Day_1: Setup & Everyday Types [[✅]]
 
-### Day_2: TypeScript Functions [[]]
+### Day_2: TypeScript Functions [[✅]]
 
 ### Day_3: Function Overloading in TypeScript [[]]
 
