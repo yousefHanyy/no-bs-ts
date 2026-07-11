@@ -8,9 +8,9 @@
 
 ### Day_4: Function Overloading in TypeScript [[✅]]
 
-### Day_5: Challenge #1 [[]]
+### Day_5: Challenge #1 [[✅]]
 
-### Day_6: Optionals in TypeScript [[]]
+### Day_6: Optionals in TypeScript [[✅]]
 
 ### Day_7: Tuples in TypeScript [[]]
 
