@@ -12,7 +12,7 @@
 
 ### Day_6: Optionals in TypeScript [[✅]]
 
-### Day_7: Tuples in TypeScript [[]]
+### Day_7: Tuples in TypeScript [[✅]]
 
 ### Day_8: Generics in TypeScript [[]]
 
