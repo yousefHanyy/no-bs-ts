@@ -14,9 +14,9 @@
 
 ### Day_7: Tuples in TypeScript [[✅]]
 
-### Day_8: Generics in TypeScript [[]]
+### Day_8: Generics in TypeScript [[✅]]
 
-### Day_9: Challenge #2 [[✅]]
+### Day_9: Challenge #2 [[]]
 
 ### Day_10: Generic with keyof in TypeScript [[]]
 
